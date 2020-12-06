@@ -37,7 +37,7 @@
 git clone https://github.com/Kurtyanik/LR6
 cd LR6 && ls -la
 git checkout -b in_work
-echo -e "This\nIs\nMy\nFile" > mefile.txt
+echo -e "This\nIs\nMy\nFile" > myfile.txt
 cat myfile.txt
 git add myfile.txt
 git commit -m "pushing..."
